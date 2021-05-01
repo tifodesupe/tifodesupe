@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @tifodesupe
+- 👀 I’m interested in learning to program
+- 🌱 I’m currently learning Javascript and Python
